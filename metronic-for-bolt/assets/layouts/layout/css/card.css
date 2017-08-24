@@ -90,7 +90,7 @@
 }
 .card_flex {
     flex: 1;
-    min-width: 1px;
+    min-width: 290px;
 }
 
 @media(max-width: 1440px) {
